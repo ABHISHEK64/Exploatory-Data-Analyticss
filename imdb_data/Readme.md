@@ -18,6 +18,7 @@ License
 ## Project Structure
 
 IMDb_data/
+
 │
 ├── imdb_data/
 │   ├── spiders/
@@ -40,20 +41,31 @@ IMDb_data/
 └── README.md                        # This README file
 
 ## Technologies Used
+
 1.Python for web scraping and data analysis
+
 2.Scrapy for scraping IMDb website
+
 3. Jupyter Notebook for Exploratory Data Analysis
+
 4. Power BI for creating the final report
+
 5. Pandas for data manipulation and analysis
+
 6. Playwright / Selenium for handling dynamic content (if necessary)
+
 7. JSON format for storing scraped data
 
 
 ## Setup Instructions
 1.Prerequisites
+
 2.Python 3.8 or later
+
 3. Power BI Desktop (for generating reports)
+   
 4. Jupyter Notebook
+   
 5.Scrapy
 
 Playwright or Selenium (if needed for dynamic pages)
