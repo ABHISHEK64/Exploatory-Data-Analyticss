@@ -60,9 +60,9 @@ Playwright or Selenium (if needed for dynamic pages)
 ## Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/imdb-webscraping-project.git
+git https://github.com/ABHISHEK64/Exploatory-Data-Analyticss/tree/main/imdb_data/imdb_data
 
-cd imdb-webscraping-project
+cd imdb_data
 
 
 Set up a virtual environment:
