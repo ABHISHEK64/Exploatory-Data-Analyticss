@@ -1,3 +1,6 @@
+
+App Links:https://exploatory-data-analyticss-naah757kn4v67hiisufzj7.streamlit.app/
+
 # IMDb Web Scraping and Analysis Project
 
 Overview
